@@ -1,7 +1,7 @@
 <?php
 include 'accessToken.php';
 $DynamicQRUrl = "https://sandbox.safaricom.co.ke/mpesa/qrcode/v1/generate";
-$MerchantName = "UMESKIA TEST PAY";
+$MerchantName = "Goodlife Pay";
 $AccountNumber = "Goodlife Pay";
 $BusinessShortCode = "600997";
 $payload = array(
